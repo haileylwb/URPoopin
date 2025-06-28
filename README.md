@@ -1,10 +1,6 @@
 # UR Poopin'
 DandyHacks '24 - First Place Efficiency
 <br/>
-https://dandyhacks-24.devpost.com/
-<br/>
-https://devpost.com/software/ur-poopin
-
 Created by: Hailey Wong-Budiman, Danica Kim, Lucy Yang, and Adrian Kong
 
 ## Project Overview:
@@ -20,6 +16,8 @@ Detailed Info – View each bathroom's gender designation and ADA accessibility.
 ## Technologies Used:
 Javascript, HTML, CSS, Figma
 
-## Demo Video: 
-https://youtu.be/ph6FOv9Pdc8?si=F25XrTYzeTc3t54z
+## Links: 
+Demo Video: https://youtu.be/ph6FOv9Pdc8?si=F25XrTYzeTc3t54z
+<br/>
+Devpost: https://devpost.com/software/ur-poopin
 
